@@ -21,8 +21,10 @@
 </p>
 
 <h3 align="left">Stars</h3>
-<p><img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omerblgn&layout=compact" alt=omerblgn /></p>
-<p><img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=omerblgn&show_icons=true" alt="omerblgn" /></p>
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=omerblgn" alt="omerblgn" /></p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omerblgn&layout=compact" alt=omerblgn />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=omerblgn&show_icons=true" alt="omerblgn" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=omerblgn" alt="omerblgn" />
+</div>
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
